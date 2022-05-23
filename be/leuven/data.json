@@ -14,12 +14,12 @@
                     "brand": "#B11623",
                     "complementary": "#FAFAFA"
                 },
-                "repository_url": "https://github.com/espinr/local-cultural-heritage/tree/main/docs/be/leuven",
+                "repository_url": "https://github.com/pbesteu/cultural-heritage-quick-app/tree/main/docs/be/leuven",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
                 "feedback_url": "https://pbest.eu/cultural-heritage-quick-app/be/leuven/#get-involved",
-                "issue_url": "https://github.com/espinr/local-cultural-heritage/issues/new?labels=be/leuven&template=update_request.md&title=Update+request+of+"
+                "issue_url": "https://github.com/pbesteu/cultural-heritage-quick-app/issues/new?labels=be/leuven&template=update_request.md&title=Update+request+of+"
             },
             "pois": [{
                     "id": "3701660486",

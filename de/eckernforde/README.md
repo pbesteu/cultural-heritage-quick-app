@@ -12,7 +12,7 @@ This app is based on open data and automatic processing of the data. The communi
 
 The app doesn't collect any personal data, so relax. We won't sell anything.
 
-Perhaps the content is inaccurate, so please [let us know](https://github.com/espinr/local-cultural-heritage/issues/new?labels=de/eckernforde) if you've spotted anything that might be enhanced. 
+Perhaps the content is inaccurate, so please [let us know](https://github.com/pbesteu/cultural-heritage-quick-app/issues/new?labels=de/eckernforde) if you've spotted anything that might be enhanced. 
 
 ## Get involved
 
@@ -23,15 +23,15 @@ The content for each application instance (one per city/town) is stored in a par
 Every project has two resource types:
 
 - *images* (`./images/xxxxx.jpg`): light pictures in square format. If possible 1x1 ratio for homogenous look and feel; the lighter, the better (50Kb per image would be fine). 
-- *database* ([`./data.json`](https://github.com/espinr/local-cultural-heritage/blob/main/docs/de/eckernforde/data.json)): JSON file with the app's configuration (name, colors, privacy texts, etc.) and the points of interest you want to show in the app. 
+- *database* ([`./data.json`](https://github.com/pbesteu/cultural-heritage-quick-app/blob/main/docs/de/eckernforde/data.json)): JSON file with the app's configuration (name, colors, privacy texts, etc.) and the points of interest you want to show in the app. 
 
-You can download it to your computer, modify the texts, or add a new element based on your knowledge. You can upload it directly (better a Pull Request if you are familiar with GitHub) or [raise an issue](https://github.com/espinr/local-cultural-heritage/issues/new?labels=de/eckernforde) to suggest the changes (please be explicit).
+You can download it to your computer, modify the texts, or add a new element based on your knowledge. You can upload it directly (better a Pull Request if you are familiar with GitHub) or [raise an issue](https://github.com/pbesteu/cultural-heritage-quick-app/issues/new?labels=de/eckernforde) to suggest the changes (please be explicit).
 
 Note that there is a moderation process so it may take some hours. Please, leave a note with the suggestion so the editor may validate and confirm your changes.
 
 ### How to submit new images
 
-The images are in the [`./images` directory](https://github.com/espinr/local-cultural-heritage/blob/main/docs/de/eckernforde/images/). 
+The images are in the [`./images` directory](https://github.com/pbesteu/cultural-heritage-quick-app/blob/main/docs/de/eckernforde/images/). 
 
 You can find a mistake, or you want to modify and upload a new version. 
 
@@ -42,7 +42,7 @@ Please, use the identifier of the point of interest you are referring to (see at
 
 ### How to update the database?
 
-The database is in a JSON file named [`data.json`](https://github.com/espinr/local-cultural-heritage/blob/main/docs/de/eckernforde/data.json) in the project's root directory.. 
+The database is in a JSON file named [`data.json`](https://github.com/pbesteu/cultural-heritage-quick-app/blob/main/docs/de/eckernforde/data.json) in the project's root directory.. 
 
 Please be sure that this document has the correct format (syntax and content). You can test it using any JSON schema validation tool against the JSON schema you can find in the repository ([schema.json](https://pbest.eu/cultural-heritage-quick-app/schema.json)). 
 
@@ -128,12 +128,12 @@ The content language tags are objects with the following structure:
                     "brand": "#B11623",             
                     "complementary": "#FAFAFA"      
                 },
-                "repository_url": "https://github.com/espinr/local-cultural-heritage/tree/main/docs/fr/paris",
+                "repository_url": "https://github.com/pbesteu/cultural-heritage-quick-app/tree/main/docs/fr/paris",
                 "text_info": "This project was created by...",
                 "text_acknowledge": "We would like to thank...",
                 "text_feedback": "Please let us know if you want to contribute...",
                 "feedback_url": "https://pbest.eu/cultural-heritage-quick-app/fr/paris/#contributors",
-                "issue_url": "https://github.com/espinr/local-cultural-heritage/issues/new?labels=fr/paris"
+                "issue_url": "https://github.com/pbesteu/cultural-heritage-quick-app/issues/new?labels=fr/paris"
             },
             "pois": [
                 {
@@ -206,7 +206,7 @@ For instance,
 
 ``` json
 {
-    "issue_url": "https://github.com/espinr/local-cultural-heritage/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+request+of+"
+    "issue_url": "https://github.com/pbesteu/cultural-heritage-quick-app/issues/new?labels=de/eckernforde&template=update_request.md&title=Update+request+of+"
 }
 ```
 
@@ -219,5 +219,5 @@ Note that the application will append the name of the point of interest at the e
 
 Just fork the repository and start sending your contributions. The code of the quick app is in the [`/quick-app`](../quick-app) folder of the repository. 
 
-Feel free to [raise issues](https://github.com/espinr/local-cultural-heritage/issues/new?labels=de/eckernforde) on the code.
+Feel free to [raise issues](https://github.com/pbesteu/cultural-heritage-quick-app/issues/new?labels=de/eckernforde) on the code.
 

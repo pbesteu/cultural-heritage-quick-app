@@ -1,5 +1,7 @@
 # Local Cultural Heritage Quick App
 
+[![JSON Check & Publication](https://github.com/pbesteu/cultural-heritage-quick-app/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/pbesteu/cultural-heritage-quick-app/actions/workflows/gh-deploy.yml)
+
 The Local Cultural Heritage Quick App promotes cultural heritage collections in small and medium cities through open data and crowdsourcing. 
 
 > It's free, open-source, and collaborative 
@@ -18,8 +20,8 @@ Some screenshots:
 
 If you want to start a new project, you only need to:
 
-- configure the [quick app](https://github.com/espinr/local-cultural-heritage/tree/main/quick-app) of this repository, and
-- configure the sample [database and documentation](https://github.com/espinr/local-cultural-heritage/tree/main/docs/sample) that feeds the quick app.
+- configure the [quick app](https://github.com/pbesteu/cultural-heritage-quick-app/tree/main/quick-app) of this repository, and
+- configure the sample [database and documentation](https://github.com/pbesteu/cultural-heritage-quick-app/tree/main/docs/sample) that feeds the quick app.
 
 ## License
 
@@ -40,7 +42,7 @@ The app doesn't collect any personal data, so relax. We won't sell anything.
 
 Just fork the repository and start sending your contributions. The code of the quick app is in the [`/quick-app`](../quick-app) folder of the repository. 
 
-Feel free to [raise issues](https://github.com/espinr/local-cultural-heritage/issues/new) on the code.
+Feel free to [raise issues](https://github.com/pbesteu/cultural-heritage-quick-app/issues/new) on the code.
 
 
 ## Acknowledgments
