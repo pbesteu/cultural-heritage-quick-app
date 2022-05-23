@@ -1,7 +1,7 @@
 {
     "meta": {
         "app_title": "LVN Street Heritage",
-        "version": 14,
+        "version": 15,
         "updated": "2022-05-23",
         "source_url": "https://pbest.eu/cultural-heritage-quick-app/be/leuven/data.json",
         "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",
@@ -15,7 +15,7 @@
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/pbesteu/cultural-heritage-quick-app/tree/main/docs/be/leuven",
-                "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "text_info": "This app is created by local experts, so it is not official. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
                 "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
                 "feedback_url": "https://pbest.eu/cultural-heritage-quick-app/be/leuven/#get-involved",
