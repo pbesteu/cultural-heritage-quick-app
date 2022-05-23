@@ -14,6 +14,8 @@ The app doesn't collect any personal data, so relax. We won't sell anything.
 
 Perhaps the content is inaccurate, so please [let us know](https://github.com/pbesteu/cultural-heritage-quick-app/issues/new?labels=be/leuven) if you've spotted anything that might be enhanced. 
 
+The quick app may perform a call to a [Matomo](https://en.wikipedia.org/wiki/Matomo_(software)) instance to measure its performance, but no personal data is shared. You can just [check the code](https://github.com/pbesteu/poi-quick-app/blob/0e30a81f203796156ecb29b30437fb18f9f83309/quick-app/src/app.ux#L222) that generates a random identifier.  
+
 ## Get involved
 
 > Do you want to contribute to the content?
